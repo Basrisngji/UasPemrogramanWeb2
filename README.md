@@ -15,3 +15,22 @@ Berikut link [Youtube](https://youtu.be/FFUnqb7C8Ys) untuk melihat tentang aplik
 
 ## Tentang Website Penyewaan Villa
 <p>Website ini menyediakan layanan penyewaan villa untuk mempermudah setiap orang yang akan menyewa villa.</p>
+
+## Fitur
+
+### User
+1.Registrasi</br>
+2.Login</br>
+3.Pemesanan</br>
+
+### Admin
+1. Login Admin
+   - Yang tersedia:
+     - Username: `admin@gmail.com`
+     - Password: `123`
+2. Apabila **SUDAH** login :
+     * CRUD Data Kamar
+     * CRUD Data Pengguna
+     * Transaksi
+       - Pending
+       - Confirm
