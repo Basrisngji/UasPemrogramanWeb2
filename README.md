@@ -12,3 +12,6 @@
 
 ## Review Web Apps
 Berikut link [Youtube](https://youtu.be/FFUnqb7C8Ys) untuk melihat tentang aplikasi penyewaan villa.
+
+## Tentang Website Penyewaan Villa
+<p>Website ini menyediakan layanan penyewaan villa untuk mempermudah setiap orang yang akan menyewa villa.</p>
